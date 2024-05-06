@@ -1,4 +1,4 @@
-Pytorch implementation of [**"Self-supervised Vision Transformers for 3D Pose Estimation of Novel Objects"**](https://arxiv.org/abs/2203.17234)
+Pytorch implementation of [**"Self-supervised Vision Transformers for 3D Pose Estimation of Novel Objects"**](https://www.sciencedirect.com/science/article/pii/S0262885623001907)
 
 **Stefan Thalhammer, Jean-Basptiste Weibel, Markus Vincze and Jose Garcia-Rodriguez**
 
@@ -6,13 +6,14 @@ Pytorch implementation of [**"Self-supervised Vision Transformers for 3D Pose Es
 
 If our project is helpful for your research, please consider citing : 
 ``` Bash
-@misc{thalhammer2023selfsupervised,
+@article{thalhammer2023selfsupervised,
       title={Self-supervised Vision Transformers for 3D Pose Estimation of Novel Objects}, 
-      author={Stefan Thalhammer and Jean-Baptiste Weibel and Markus Vincze and Jose Garcia-Rodriguez},
+      author={Thalhammer, Stefan and Weibel, Jean-Baptiste and Vincze, Markus Vincze and Garcia-Rodriguez, Jose},
+      journal={Image and Vision Computing},
+      volume={139},
+      pages={104816},
       year={2023},
-      eprint={2306.00129},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      publisher={Elsevier},
 }
 ```
 ## Table of Content
